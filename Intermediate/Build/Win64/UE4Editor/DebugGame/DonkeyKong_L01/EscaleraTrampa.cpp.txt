@@ -1,0 +1,5 @@
+C:\Users\VICTUS\Downloads\DonkeyKong_L01-master\DonkeyKong_L01-master\Intermediate\Build\Win64\UE4Editor\DebugGame\DonkeyKong_L01\Definitions.DonkeyKong_L01.h
+C:\Users\VICTUS\Downloads\DonkeyKong_L01-master\DonkeyKong_L01-master\Source\DonkeyKong_L01\EscaleraTrampa.h
+C:\Users\VICTUS\Downloads\DonkeyKong_L01-master\DonkeyKong_L01-master\Source\DonkeyKong_L01\Escalera.h
+C:\Users\VICTUS\Downloads\DonkeyKong_L01-master\DonkeyKong_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_L01\Escalera.generated.h
+C:\Users\VICTUS\Downloads\DonkeyKong_L01-master\DonkeyKong_L01-master\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_L01\EscaleraTrampa.generated.h

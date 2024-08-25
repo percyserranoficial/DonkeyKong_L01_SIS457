@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DonkeyKong_L01",
+			"Path": "C:\\Users\\VICTUS\\Downloads\\DonkeyKong_L01-master\\DonkeyKong_L01-master\\Source\\DonkeyKong_L01.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DonkeyKong_L01Editor",
+			"Path": "C:\\Users\\VICTUS\\Downloads\\DonkeyKong_L01-master\\DonkeyKong_L01-master\\Source\\DonkeyKong_L01Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
